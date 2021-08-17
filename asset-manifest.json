@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Villagers/static/css/main.b76597b7.chunk.css",
-    "main.js": "/Villagers/static/js/main.0e13689c.chunk.js",
-    "main.js.map": "/Villagers/static/js/main.0e13689c.chunk.js.map",
+    "main.css": "/Villagers/static/css/main.550a7470.chunk.css",
+    "main.js": "/Villagers/static/js/main.e216d5ed.chunk.js",
+    "main.js.map": "/Villagers/static/js/main.e216d5ed.chunk.js.map",
     "runtime-main.js": "/Villagers/static/js/runtime-main.e30915c8.js",
     "runtime-main.js.map": "/Villagers/static/js/runtime-main.e30915c8.js.map",
     "static/js/2.d451e477.chunk.js": "/Villagers/static/js/2.d451e477.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.14a4fad5.chunk.js": "/Villagers/static/js/3.14a4fad5.chunk.js",
     "static/js/3.14a4fad5.chunk.js.map": "/Villagers/static/js/3.14a4fad5.chunk.js.map",
     "index.html": "/Villagers/index.html",
-    "static/css/main.b76597b7.chunk.css.map": "/Villagers/static/css/main.b76597b7.chunk.css.map",
+    "static/css/main.550a7470.chunk.css.map": "/Villagers/static/css/main.550a7470.chunk.css.map",
     "static/js/2.d451e477.chunk.js.LICENSE.txt": "/Villagers/static/js/2.d451e477.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e30915c8.js",
     "static/js/2.d451e477.chunk.js",
-    "static/css/main.b76597b7.chunk.css",
-    "static/js/main.0e13689c.chunk.js"
+    "static/css/main.550a7470.chunk.css",
+    "static/js/main.e216d5ed.chunk.js"
   ]
 }
