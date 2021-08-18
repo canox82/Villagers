@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Villagers/static/css/main.550a7470.chunk.css",
-    "main.js": "/Villagers/static/js/main.e216d5ed.chunk.js",
-    "main.js.map": "/Villagers/static/js/main.e216d5ed.chunk.js.map",
+    "main.js": "/Villagers/static/js/main.41d53b71.chunk.js",
+    "main.js.map": "/Villagers/static/js/main.41d53b71.chunk.js.map",
     "runtime-main.js": "/Villagers/static/js/runtime-main.e30915c8.js",
     "runtime-main.js.map": "/Villagers/static/js/runtime-main.e30915c8.js.map",
     "static/js/2.d451e477.chunk.js": "/Villagers/static/js/2.d451e477.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e30915c8.js",
     "static/js/2.d451e477.chunk.js",
     "static/css/main.550a7470.chunk.css",
-    "static/js/main.e216d5ed.chunk.js"
+    "static/js/main.41d53b71.chunk.js"
   ]
 }
